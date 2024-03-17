@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>连接状态-未连接.png</file>
+        <file>连接状态-已连接.png</file>
+        <file>image/qq.png</file>
+        <file>sounds/iphone.mp3</file>
+        <file>sounds/iphone.wav</file>
+        <file>sounds/keke.wav</file>
+        <file>sounds/message.wav</file>
+        <file>image/charts.jpg</file>
+        <file>image/login.png</file>
+        <file>image/qqlogin.png</file>
+        <file>image/register.jpg</file>
+    </qresource>
+</RCC>
